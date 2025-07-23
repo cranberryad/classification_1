@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c22c81d1-09c0-4653-a607-23532b84dd4c" name="Changes" comment="" />
+    <list default="true" id="6b1046cf-6469-416f-b768-b0f6160a07a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/classification_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +20,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="30I6Zxts8d1us57PMgXmJu1TFqk" />
+  <component name="ProjectId" id="30I7NqDOgPH2hfyHdnPhkEqyPMi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,12 +45,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c22c81d1-09c0-4653-a607-23532b84dd4c" name="Changes" comment="" />
-      <created>1753302798655</created>
+      <changelist id="6b1046cf-6469-416f-b768-b0f6160a07a0" name="Changes" comment="" />
+      <created>1753303195168</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1753302798655</updated>
-      <workItem from="1753302799793" duration="3000" />
+      <updated>1753303195168</updated>
+      <workItem from="1753303196244" duration="2000" />
     </task>
     <servers />
   </component>
