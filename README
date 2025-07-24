@@ -1,0 +1,5 @@
+The dataset has different data about poisonous and safe to eat mushrooms. I created a model
+that can tell whether it is safe to eat or not. The classification threshold is high because
+it is better to not eat a mushroom if it is not safe.
+That is why we can see a small recall but a high precision - the exact thing we need!
+You can freely use this project, as it is based on Google's AI Crash Course.
